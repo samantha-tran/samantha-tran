@@ -1,22 +1,23 @@
-### Hi there 👋
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = 'Samantha Tran'
+        self.skills = {
+          'languages': ['python', 'java', 'SQL', 'HMTL/CSS/JS'],
+          'frameworks': ['react', 'vue', 'flask', 'tailwindcss', 'codeigniter',
+          'devTools': ['git', 'jacoco', 'sonarcloud', 'github actions', 'docker', 'adobe photoshop', 'adobe illustrator']
+         self.occupation = 'Student at the University of Queensland'
+         self.interests = ['graphic design', 'bouldering', 'baking', 'photography']
+    }
+    
+    def __str__(self):
+            return self.name
 
-<!--
-**samantha-tran/samantha-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if __name__ == '__main__':
+    me = SoftwareEngineer()
+```
+#### 📫 How to reach me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/samanthatran2/)  &nbsp; 
+<a href="mailto:stran322001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-📫 How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samanthatran2/)](https://www.linkedin.com/in/samanthatran2/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stran322001@gmail.com)](mailto:stran322001@gmail.com)
-
+#### ❤️ For more, visit my <a href="https://samantha-tran.com">personal website</a>
